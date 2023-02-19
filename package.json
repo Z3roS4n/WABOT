@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "argoscuolanext": "^2.1.2",
+    "axios": "^1.3.3",
+    "cheerio": "^1.0.0-rc.12",
+    "json2csv": "^6.0.0-alpha.2",
+    "venom-bot": "^4.3.7"
+  }
+}

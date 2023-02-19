@@ -1,0 +1,12 @@
+{
+    "materie": {
+        "elenco": {
+            "0": {
+                "nome": "TPSIT",
+                "insegnante": [
+                    "Indelicato O."
+                ]
+            }
+        }
+    }
+}
